@@ -1,0 +1,17 @@
+{
+  "name": "Lachgas Service Amsterdam",
+  "short_name": "Lachgas Amsterdam",
+  "description": "Lachgas Amsterdam — lachgas bestellen en 24/7 thuisbezorgd in heel Amsterdam.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3f3f46",
+  "lang": "nl",
+  "icons": [
+    {
+      "src": "/images/icon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}

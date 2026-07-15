@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lachgasserviceamsterdam.nl/sitemap.xml
